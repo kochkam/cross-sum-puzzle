@@ -1,0 +1,13 @@
+# Portfolio Project CS-325: Cross-sum-puzzle 
+# Author: Michael Kochka 
+# Date: 3/8/2021
+#
+# This app uses a GUI using the web specifically a React framework. 
+#
+# Requirements: You will need Node >= 10 on you local machine. 
+#
+# Step 1: Change Directory to cross-sum-puzzle (root directory)
+# Step 2: Run "npm start" in terminal from root directory
+# Step 3: open "http://localhost:3000/ " in browser to see the app running. 
+
+# Note: If you have any additional troubles running please visit "https://create-react-app.dev/docs/getting-started/"
